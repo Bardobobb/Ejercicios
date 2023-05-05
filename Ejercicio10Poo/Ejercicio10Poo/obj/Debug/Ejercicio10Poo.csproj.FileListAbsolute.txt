@@ -1,0 +1,8 @@
+C:\Users\ev\Documents\C#registro\Registro ejercicios\Ejercicio10Poo\Ejercicio10Poo\bin\Debug\Ejercicio10Poo.exe.config
+C:\Users\ev\Documents\C#registro\Registro ejercicios\Ejercicio10Poo\Ejercicio10Poo\bin\Debug\Ejercicio10Poo.exe
+C:\Users\ev\Documents\C#registro\Registro ejercicios\Ejercicio10Poo\Ejercicio10Poo\bin\Debug\Ejercicio10Poo.pdb
+C:\Users\ev\Documents\C#registro\Registro ejercicios\Ejercicio10Poo\Ejercicio10Poo\obj\Debug\Ejercicio10Poo.csproj.AssemblyReference.cache
+C:\Users\ev\Documents\C#registro\Registro ejercicios\Ejercicio10Poo\Ejercicio10Poo\obj\Debug\Ejercicio10Poo.csproj.SuggestedBindingRedirects.cache
+C:\Users\ev\Documents\C#registro\Registro ejercicios\Ejercicio10Poo\Ejercicio10Poo\obj\Debug\Ejercicio10Poo.csproj.CoreCompileInputs.cache
+C:\Users\ev\Documents\C#registro\Registro ejercicios\Ejercicio10Poo\Ejercicio10Poo\obj\Debug\Ejercicio10Poo.exe
+C:\Users\ev\Documents\C#registro\Registro ejercicios\Ejercicio10Poo\Ejercicio10Poo\obj\Debug\Ejercicio10Poo.pdb
