@@ -1,0 +1,8 @@
+C:\Users\ev\Documents\C#registro\Registro ejercicios\Ejercicio9Poo\Ejercicio9Poo\bin\Debug\Ejercicio9Poo.exe.config
+C:\Users\ev\Documents\C#registro\Registro ejercicios\Ejercicio9Poo\Ejercicio9Poo\bin\Debug\Ejercicio9Poo.exe
+C:\Users\ev\Documents\C#registro\Registro ejercicios\Ejercicio9Poo\Ejercicio9Poo\bin\Debug\Ejercicio9Poo.pdb
+C:\Users\ev\Documents\C#registro\Registro ejercicios\Ejercicio9Poo\Ejercicio9Poo\obj\Debug\Ejercicio9Poo.csproj.AssemblyReference.cache
+C:\Users\ev\Documents\C#registro\Registro ejercicios\Ejercicio9Poo\Ejercicio9Poo\obj\Debug\Ejercicio9Poo.csproj.SuggestedBindingRedirects.cache
+C:\Users\ev\Documents\C#registro\Registro ejercicios\Ejercicio9Poo\Ejercicio9Poo\obj\Debug\Ejercicio9Poo.csproj.CoreCompileInputs.cache
+C:\Users\ev\Documents\C#registro\Registro ejercicios\Ejercicio9Poo\Ejercicio9Poo\obj\Debug\Ejercicio9Poo.exe
+C:\Users\ev\Documents\C#registro\Registro ejercicios\Ejercicio9Poo\Ejercicio9Poo\obj\Debug\Ejercicio9Poo.pdb
