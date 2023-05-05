@@ -1,0 +1,8 @@
+C:\Users\ev\Documents\C#registro\Registro ejercicios\Ejercicio3Poo\Ejercicio3Poo\bin\Debug\Ejercicio3Poo.exe.config
+C:\Users\ev\Documents\C#registro\Registro ejercicios\Ejercicio3Poo\Ejercicio3Poo\bin\Debug\Ejercicio3Poo.exe
+C:\Users\ev\Documents\C#registro\Registro ejercicios\Ejercicio3Poo\Ejercicio3Poo\bin\Debug\Ejercicio3Poo.pdb
+C:\Users\ev\Documents\C#registro\Registro ejercicios\Ejercicio3Poo\Ejercicio3Poo\obj\Debug\Ejercicio3Poo.csproj.AssemblyReference.cache
+C:\Users\ev\Documents\C#registro\Registro ejercicios\Ejercicio3Poo\Ejercicio3Poo\obj\Debug\Ejercicio3Poo.csproj.SuggestedBindingRedirects.cache
+C:\Users\ev\Documents\C#registro\Registro ejercicios\Ejercicio3Poo\Ejercicio3Poo\obj\Debug\Ejercicio3Poo.csproj.CoreCompileInputs.cache
+C:\Users\ev\Documents\C#registro\Registro ejercicios\Ejercicio3Poo\Ejercicio3Poo\obj\Debug\Ejercicio3Poo.exe
+C:\Users\ev\Documents\C#registro\Registro ejercicios\Ejercicio3Poo\Ejercicio3Poo\obj\Debug\Ejercicio3Poo.pdb
