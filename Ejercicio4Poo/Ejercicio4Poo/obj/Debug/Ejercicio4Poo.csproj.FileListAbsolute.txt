@@ -1,0 +1,8 @@
+C:\Users\ev\Documents\C#registro\Registro ejercicios\Ejercicio4Poo\Ejercicio4Poo\bin\Debug\Ejercicio4Poo.exe.config
+C:\Users\ev\Documents\C#registro\Registro ejercicios\Ejercicio4Poo\Ejercicio4Poo\bin\Debug\Ejercicio4Poo.exe
+C:\Users\ev\Documents\C#registro\Registro ejercicios\Ejercicio4Poo\Ejercicio4Poo\bin\Debug\Ejercicio4Poo.pdb
+C:\Users\ev\Documents\C#registro\Registro ejercicios\Ejercicio4Poo\Ejercicio4Poo\obj\Debug\Ejercicio4Poo.csproj.AssemblyReference.cache
+C:\Users\ev\Documents\C#registro\Registro ejercicios\Ejercicio4Poo\Ejercicio4Poo\obj\Debug\Ejercicio4Poo.csproj.SuggestedBindingRedirects.cache
+C:\Users\ev\Documents\C#registro\Registro ejercicios\Ejercicio4Poo\Ejercicio4Poo\obj\Debug\Ejercicio4Poo.csproj.CoreCompileInputs.cache
+C:\Users\ev\Documents\C#registro\Registro ejercicios\Ejercicio4Poo\Ejercicio4Poo\obj\Debug\Ejercicio4Poo.exe
+C:\Users\ev\Documents\C#registro\Registro ejercicios\Ejercicio4Poo\Ejercicio4Poo\obj\Debug\Ejercicio4Poo.pdb
