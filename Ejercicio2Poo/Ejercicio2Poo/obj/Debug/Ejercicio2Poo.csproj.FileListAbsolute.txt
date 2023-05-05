@@ -1,0 +1,8 @@
+C:\Users\ev\Documents\C#registro\Registro ejercicios\Ejercicio2Poo\Ejercicio2Poo\bin\Debug\Ejercicio2Poo.exe.config
+C:\Users\ev\Documents\C#registro\Registro ejercicios\Ejercicio2Poo\Ejercicio2Poo\bin\Debug\Ejercicio2Poo.exe
+C:\Users\ev\Documents\C#registro\Registro ejercicios\Ejercicio2Poo\Ejercicio2Poo\bin\Debug\Ejercicio2Poo.pdb
+C:\Users\ev\Documents\C#registro\Registro ejercicios\Ejercicio2Poo\Ejercicio2Poo\obj\Debug\Ejercicio2Poo.csproj.AssemblyReference.cache
+C:\Users\ev\Documents\C#registro\Registro ejercicios\Ejercicio2Poo\Ejercicio2Poo\obj\Debug\Ejercicio2Poo.csproj.SuggestedBindingRedirects.cache
+C:\Users\ev\Documents\C#registro\Registro ejercicios\Ejercicio2Poo\Ejercicio2Poo\obj\Debug\Ejercicio2Poo.csproj.CoreCompileInputs.cache
+C:\Users\ev\Documents\C#registro\Registro ejercicios\Ejercicio2Poo\Ejercicio2Poo\obj\Debug\Ejercicio2Poo.exe
+C:\Users\ev\Documents\C#registro\Registro ejercicios\Ejercicio2Poo\Ejercicio2Poo\obj\Debug\Ejercicio2Poo.pdb
