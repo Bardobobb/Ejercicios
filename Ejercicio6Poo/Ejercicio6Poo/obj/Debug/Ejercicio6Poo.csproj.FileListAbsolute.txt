@@ -1,0 +1,8 @@
+C:\Users\ev\Documents\C#registro\Registro ejercicios\Ejercicio6Poo\Ejercicio6Poo\obj\Debug\Ejercicio6Poo.csproj.AssemblyReference.cache
+C:\Users\ev\Documents\C#registro\Registro ejercicios\Ejercicio6Poo\Ejercicio6Poo\obj\Debug\Ejercicio6Poo.csproj.SuggestedBindingRedirects.cache
+C:\Users\ev\Documents\C#registro\Registro ejercicios\Ejercicio6Poo\Ejercicio6Poo\obj\Debug\Ejercicio6Poo.csproj.CoreCompileInputs.cache
+C:\Users\ev\Documents\C#registro\Registro ejercicios\Ejercicio6Poo\Ejercicio6Poo\bin\Debug\Ejercicio6Poo.exe.config
+C:\Users\ev\Documents\C#registro\Registro ejercicios\Ejercicio6Poo\Ejercicio6Poo\bin\Debug\Ejercicio6Poo.exe
+C:\Users\ev\Documents\C#registro\Registro ejercicios\Ejercicio6Poo\Ejercicio6Poo\bin\Debug\Ejercicio6Poo.pdb
+C:\Users\ev\Documents\C#registro\Registro ejercicios\Ejercicio6Poo\Ejercicio6Poo\obj\Debug\Ejercicio6Poo.exe
+C:\Users\ev\Documents\C#registro\Registro ejercicios\Ejercicio6Poo\Ejercicio6Poo\obj\Debug\Ejercicio6Poo.pdb
