@@ -1,0 +1,8 @@
+C:\Users\ev\Documents\C#registro\Registro ejercicios\Ejercicio8Poo\Ejercicio8Poo\bin\Debug\Ejercicio8Poo.exe.config
+C:\Users\ev\Documents\C#registro\Registro ejercicios\Ejercicio8Poo\Ejercicio8Poo\bin\Debug\Ejercicio8Poo.exe
+C:\Users\ev\Documents\C#registro\Registro ejercicios\Ejercicio8Poo\Ejercicio8Poo\bin\Debug\Ejercicio8Poo.pdb
+C:\Users\ev\Documents\C#registro\Registro ejercicios\Ejercicio8Poo\Ejercicio8Poo\obj\Debug\Ejercicio8Poo.csproj.AssemblyReference.cache
+C:\Users\ev\Documents\C#registro\Registro ejercicios\Ejercicio8Poo\Ejercicio8Poo\obj\Debug\Ejercicio8Poo.csproj.SuggestedBindingRedirects.cache
+C:\Users\ev\Documents\C#registro\Registro ejercicios\Ejercicio8Poo\Ejercicio8Poo\obj\Debug\Ejercicio8Poo.csproj.CoreCompileInputs.cache
+C:\Users\ev\Documents\C#registro\Registro ejercicios\Ejercicio8Poo\Ejercicio8Poo\obj\Debug\Ejercicio8Poo.exe
+C:\Users\ev\Documents\C#registro\Registro ejercicios\Ejercicio8Poo\Ejercicio8Poo\obj\Debug\Ejercicio8Poo.pdb
