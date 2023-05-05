@@ -1,0 +1,8 @@
+C:\Users\ev\Documents\C#registro\Registro ejercicios\Ejercicio7Poo\Ejercicio7Poo\bin\Debug\Ejercicio7Poo.exe.config
+C:\Users\ev\Documents\C#registro\Registro ejercicios\Ejercicio7Poo\Ejercicio7Poo\bin\Debug\Ejercicio7Poo.exe
+C:\Users\ev\Documents\C#registro\Registro ejercicios\Ejercicio7Poo\Ejercicio7Poo\bin\Debug\Ejercicio7Poo.pdb
+C:\Users\ev\Documents\C#registro\Registro ejercicios\Ejercicio7Poo\Ejercicio7Poo\obj\Debug\Ejercicio7Poo.csproj.AssemblyReference.cache
+C:\Users\ev\Documents\C#registro\Registro ejercicios\Ejercicio7Poo\Ejercicio7Poo\obj\Debug\Ejercicio7Poo.csproj.SuggestedBindingRedirects.cache
+C:\Users\ev\Documents\C#registro\Registro ejercicios\Ejercicio7Poo\Ejercicio7Poo\obj\Debug\Ejercicio7Poo.csproj.CoreCompileInputs.cache
+C:\Users\ev\Documents\C#registro\Registro ejercicios\Ejercicio7Poo\Ejercicio7Poo\obj\Debug\Ejercicio7Poo.exe
+C:\Users\ev\Documents\C#registro\Registro ejercicios\Ejercicio7Poo\Ejercicio7Poo\obj\Debug\Ejercicio7Poo.pdb
