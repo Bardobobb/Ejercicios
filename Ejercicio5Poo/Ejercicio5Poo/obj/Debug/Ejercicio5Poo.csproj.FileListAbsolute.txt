@@ -1,0 +1,8 @@
+C:\Users\ev\Documents\C#registro\Registro ejercicios\Ejercicio5Poo\Ejercicio5Poo\bin\Debug\Ejercicio5Poo.exe.config
+C:\Users\ev\Documents\C#registro\Registro ejercicios\Ejercicio5Poo\Ejercicio5Poo\bin\Debug\Ejercicio5Poo.exe
+C:\Users\ev\Documents\C#registro\Registro ejercicios\Ejercicio5Poo\Ejercicio5Poo\bin\Debug\Ejercicio5Poo.pdb
+C:\Users\ev\Documents\C#registro\Registro ejercicios\Ejercicio5Poo\Ejercicio5Poo\obj\Debug\Ejercicio5Poo.csproj.AssemblyReference.cache
+C:\Users\ev\Documents\C#registro\Registro ejercicios\Ejercicio5Poo\Ejercicio5Poo\obj\Debug\Ejercicio5Poo.csproj.SuggestedBindingRedirects.cache
+C:\Users\ev\Documents\C#registro\Registro ejercicios\Ejercicio5Poo\Ejercicio5Poo\obj\Debug\Ejercicio5Poo.csproj.CoreCompileInputs.cache
+C:\Users\ev\Documents\C#registro\Registro ejercicios\Ejercicio5Poo\Ejercicio5Poo\obj\Debug\Ejercicio5Poo.exe
+C:\Users\ev\Documents\C#registro\Registro ejercicios\Ejercicio5Poo\Ejercicio5Poo\obj\Debug\Ejercicio5Poo.pdb
